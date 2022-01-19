@@ -283,23 +283,17 @@ List of network requests by screen
           print("Successfully retrieved \(posts.count) posts.")
           // TODO: Do something with posts...
        }
-    } -->
-    ```
-    # Progress
-    ### Home Screen, Workout:
-    ![](unit12.gif)
-    ### Final App
-    ![](final.gif)
-    ### Narrated Video
-    https://user-images.githubusercontent.com/57269214/120058194-40ddf180-c017-11eb-8013-119c53723f96.mp4
+    }
+ -->
+ # Demo
+<!--  ### Home Screen, Workout:
+ ![](unit12.gif) -->
+ ### Walkthough
+ ![](final.gif)
+<!--  ### Narrated Video
+ https://user-images.githubusercontent.com/57269214/120058194-40ddf180-c017-11eb-8013-119c53723f96.mp4 -->
     
-    
-    # Next
-    - [ ] Create Custom API
-    - [ ] Connection Tab
-    - [ ] Implement reminder feature
-    - [ ] Animations
-    - [ ] Web Scraping for nutrition page   
+
     
     
     
